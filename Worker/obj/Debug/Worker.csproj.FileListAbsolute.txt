@@ -1,0 +1,7 @@
+D:\Mark\RabbitMQ.Demo\Worker\bin\Debug\Worker.exe.config
+D:\Mark\RabbitMQ.Demo\Worker\bin\Debug\Worker.exe
+D:\Mark\RabbitMQ.Demo\Worker\bin\Debug\Worker.pdb
+D:\Mark\RabbitMQ.Demo\Worker\bin\Debug\RabbitMQ.Client.dll
+D:\Mark\RabbitMQ.Demo\Worker\bin\Debug\RabbitMQ.Client.xml
+D:\Mark\RabbitMQ.Demo\Worker\obj\Debug\Worker.exe
+D:\Mark\RabbitMQ.Demo\Worker\obj\Debug\Worker.pdb

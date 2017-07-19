@@ -1,0 +1,7 @@
+D:\Mark\RabbitMQ.Demo\Rabbit.Consumer\bin\Debug\Rabbit.Consumer.exe.config
+D:\Mark\RabbitMQ.Demo\Rabbit.Consumer\bin\Debug\Rabbit.Consumer.exe
+D:\Mark\RabbitMQ.Demo\Rabbit.Consumer\bin\Debug\Rabbit.Consumer.pdb
+D:\Mark\RabbitMQ.Demo\Rabbit.Consumer\bin\Debug\RabbitMQ.Client.dll
+D:\Mark\RabbitMQ.Demo\Rabbit.Consumer\bin\Debug\RabbitMQ.Client.xml
+D:\Mark\RabbitMQ.Demo\Rabbit.Consumer\obj\Debug\Rabbit.Consumer.exe
+D:\Mark\RabbitMQ.Demo\Rabbit.Consumer\obj\Debug\Rabbit.Consumer.pdb

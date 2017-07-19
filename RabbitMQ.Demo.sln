@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQ.Demo", "RabbitMQ.Demo\RabbitMQ.Demo.csproj", "{FCAA5F5C-0759-4139-93C3-E9379FB9692D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csproj", "{354EEAA6-CE3A-44FA-A3CF-A2255DF3E8EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbit.Product", "Rabbit.Product\Rabbit.Product.csproj", "{94C6F1C6-E2D4-4A55-8985-D6BCB7C66DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabbit.Consumer", "Rabbit.Consumer\Rabbit.Consumer.csproj", "{12056B10-3049-4003-90EA-698F7AB0ECD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAA5F5C-0759-4139-93C3-E9379FB9692D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAA5F5C-0759-4139-93C3-E9379FB9692D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAA5F5C-0759-4139-93C3-E9379FB9692D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAA5F5C-0759-4139-93C3-E9379FB9692D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354EEAA6-CE3A-44FA-A3CF-A2255DF3E8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354EEAA6-CE3A-44FA-A3CF-A2255DF3E8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354EEAA6-CE3A-44FA-A3CF-A2255DF3E8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354EEAA6-CE3A-44FA-A3CF-A2255DF3E8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C6F1C6-E2D4-4A55-8985-D6BCB7C66DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C6F1C6-E2D4-4A55-8985-D6BCB7C66DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C6F1C6-E2D4-4A55-8985-D6BCB7C66DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C6F1C6-E2D4-4A55-8985-D6BCB7C66DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12056B10-3049-4003-90EA-698F7AB0ECD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12056B10-3049-4003-90EA-698F7AB0ECD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12056B10-3049-4003-90EA-698F7AB0ECD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12056B10-3049-4003-90EA-698F7AB0ECD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

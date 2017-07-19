@@ -1,0 +1,7 @@
+D:\Mark\RabbitMQ.Demo\RabbitMQ.Demo\bin\Debug\RabbitMQ.Demo.exe.config
+D:\Mark\RabbitMQ.Demo\RabbitMQ.Demo\bin\Debug\RabbitMQ.Demo.exe
+D:\Mark\RabbitMQ.Demo\RabbitMQ.Demo\bin\Debug\RabbitMQ.Demo.pdb
+D:\Mark\RabbitMQ.Demo\RabbitMQ.Demo\bin\Debug\RabbitMQ.Client.dll
+D:\Mark\RabbitMQ.Demo\RabbitMQ.Demo\bin\Debug\RabbitMQ.Client.xml
+D:\Mark\RabbitMQ.Demo\RabbitMQ.Demo\obj\Debug\RabbitMQ.Demo.exe
+D:\Mark\RabbitMQ.Demo\RabbitMQ.Demo\obj\Debug\RabbitMQ.Demo.pdb
